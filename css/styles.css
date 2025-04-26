@@ -429,6 +429,9 @@ transform: translateY(0%);
     gap: 40px;
 }
 
+.subscribe-footer {
+    margin-left: 80px;
+}
 .subscribe-text {
     margin-bottom: 16px;
     font-weight: 500;
@@ -441,7 +444,7 @@ transform: translateY(0%);
 .sub-form {
     display: flex;
     gap: 24px;
-    align-items: flex-end;
+    
 }
 
 .sub-input-area {
