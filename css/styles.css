@@ -661,12 +661,11 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     justify-content: center;
 }
 
- 
-.checkbox-area:checked + .checkbox-label .checkbox-span .checkbox-icon {
+ .checkbox-area:checked+.checkbox-label .checkbox-span {
     background-color: #404bbf;
     border: none;
-    fill: #F4F4FD;
-}
+    fill: #F4F4FD;}
+
 .checkbox-link {
     color: #4d5ae5;
     text-decoration: underline;
